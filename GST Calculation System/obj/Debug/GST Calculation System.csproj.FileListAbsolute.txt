@@ -1,0 +1,15 @@
+C:\Users\KIRAN\source\repos\GST Calculation System\GST Calculation System\bin\Debug\GST Calculation System.exe.config
+C:\Users\KIRAN\source\repos\GST Calculation System\GST Calculation System\bin\Debug\GST Calculation System.exe
+C:\Users\KIRAN\source\repos\GST Calculation System\GST Calculation System\bin\Debug\GST Calculation System.pdb
+C:\Users\KIRAN\source\repos\GST Calculation System\GST Calculation System\obj\Debug\GST Calculation System.csproj.AssemblyReference.cache
+C:\Users\KIRAN\source\repos\GST Calculation System\GST Calculation System\obj\Debug\GST Calculation System.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIRAN\source\repos\GST Calculation System\GST Calculation System\obj\Debug\GST_Calculation_System.Form1.resources
+C:\Users\KIRAN\source\repos\GST Calculation System\GST Calculation System\obj\Debug\GST_Calculation_System.Form2.resources
+C:\Users\KIRAN\source\repos\GST Calculation System\GST Calculation System\obj\Debug\GST_Calculation_System.Properties.Resources.resources
+C:\Users\KIRAN\source\repos\GST Calculation System\GST Calculation System\obj\Debug\GST Calculation System.csproj.GenerateResource.cache
+C:\Users\KIRAN\source\repos\GST Calculation System\GST Calculation System\obj\Debug\GST Calculation System.csproj.CoreCompileInputs.cache
+C:\Users\KIRAN\source\repos\GST Calculation System\GST Calculation System\obj\Debug\GST Calculation System.exe
+C:\Users\KIRAN\source\repos\GST Calculation System\GST Calculation System\obj\Debug\GST Calculation System.pdb
+C:\Users\KIRAN\source\repos\GST Calculation System\GST Calculation System\obj\Debug\GST_Calculation_System.Form3.resources
+C:\Users\KIRAN\source\repos\GST Calculation System\GST Calculation System\obj\Debug\GST_Calculation_System.Form4.resources
+C:\Users\KIRAN\source\repos\GST Calculation System\GST Calculation System\obj\Debug\GST_Calculation_System.Form5.resources
